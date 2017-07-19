@@ -1,0 +1,12 @@
+.a_button {
+    color: #fff;
+	padding: 15px;
+    float: right;
+    cursor: pointer;
+}
+
+.a_button:hover {
+    color: #f6f6f6;
+    background: rgba(0,0,0,.1);
+    background-color: #367fa9;
+}
